@@ -25,7 +25,6 @@ You can **add, edit, and delete tasks**, and they appear in a dashboard.
 ## 🛠️ Installation
 
 1. **Clone or download the project folder**
-git clone https://github.com/your-username/todo-app.git
 
 
 2. **Create a MySQL database**
